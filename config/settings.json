@@ -1,0 +1,10 @@
+{
+  "looks": {
+    "wallpaper": "/home/d34th/Pictures/magenta-cat.png",
+    "caret_font_size": 49,
+    "caret_font": "Font Awesome 5 Free Solid",
+    "panel-opacity": 1.0,
+    "panel-size": 20
+  },
+  "display": { "screen-count": 1 }
+}
